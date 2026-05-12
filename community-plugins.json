@@ -23840,5 +23840,12 @@
     "author": "moziar",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Add custom icon to Obsidian and allow swapping out default icons.",
     "repo": "moziar/Obsidian-Iconify"
+  },
+  {
+    "id": "emrald",
+    "name": "EMRALD",
+    "author": "Effort Mastery LLC",
+    "description": "Track what work costs you: effort, flow, energy, and burnout risk.",
+    "repo": "Admiral9k/emrald-obsidian"
   }
 ]
